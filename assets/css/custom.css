@@ -1,0 +1,30 @@
+.pp {
+    border-radius: 50% !important;
+}
+.vlt-team-member--style-4{
+    width: auto;
+    height: 255px;
+}
+.vlt-team-member--style-4 img{
+    border-radius: 50%;
+}
+/*.swiper-container {
+    cursor: grab !important;
+}*/
+.touch_mode_grab {
+    cursor: grab !important;
+    cursor: -moz-grab !important;
+    cursor: -webkit-grab !important;
+    cursor: url('https://github.com/bqworks/slider-pro/raw/master/dist/css/images/openhand.cur'), n-resize; /* standard */
+    cursor: url('https://github.com/bqworks/slider-pro/raw/master/dist/css/images/openhand.cur'), n-resize\9; /* IE 8 and below */
+    _cursor: url('https://github.com/bqworks/slider-pro/raw/master/dist/css/images/openhand.cur'), n-resize; /* IE 6 */
+}
+    
+.touch_mode_grabbing {
+    cursor: grabbing !important;
+    cursor: -moz-grabbing !important;
+    cursor: -webkit-grabbing !important;
+    cursor: url('https://github.com/bqworks/slider-pro/raw/master/dist/css/images/closedhand.cur'), n-resize; /* standard */
+    cursor: url('https://github.com/bqworks/slider-pro/raw/master/dist/css/images/closedhand.cur'), n-resize\9; /* IE 8 and below */
+    _cursor: url('https://github.com/bqworks/slider-pro/raw/master/dist/css/images/closedhand.cur'), n-resize; /* IE 6 */
+}
